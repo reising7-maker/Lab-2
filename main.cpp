@@ -1,6 +1,7 @@
 // Levi Reising
 // Computer Science
-
+/* For this project, we are trying to create a cylinder and figure out the volume and
+surface area of that cylinder for a given height and radius*/
 
 #include <iostream>
 
